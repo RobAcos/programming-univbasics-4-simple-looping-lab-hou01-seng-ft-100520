@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def loop_message_five_times (message)
   count = 0 
   while count < 5 do
@@ -34,3 +35,7 @@ end
   
   
   
+=======
+puts
+Hello World 
+>>>>>>> 95640618d2f5c539b03dabbca03e16cc419b097b
